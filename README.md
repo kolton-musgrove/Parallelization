@@ -16,7 +16,7 @@ The sources provided above are pretty good, but not necessarily built around HPC
 
 ## Introduction to HPC
 
-I will be using the introduction to HPC that is [written by someone else]("http://www.shodor.org/media/content/petascale/materials/UPModules/beginnersGuideHPC/moduleDocument_pdf.pdf") for time's sake:
+I will be using the introduction to HPC that is written by someone else for time's sake:
 
 > High performance and parallel computing is a broad subject, and our presentation is brief and given from a practitioner’s point of view. More recent developments, such as programming for multicore computers, cell computers, and field–programmable gate accelerators, are discussed in journals and magazines, with a short discussion at the end. By definition, supercomputers are the fastest and most powerful computers available, and at present the term refers to machines with hundreds of thousands of processors. They are the superstars of the high–performance class of computers. Personal computers (PCs) small enough in size and cost to be used by an individual, yet powerful enough for advanced scientific and engineering applications, can also be high–performance computers. We define high–performance computers as machines with a good balance among the following major elements:
 >
@@ -31,7 +31,7 @@ I will be using the introduction to HPC that is [written by someone else]("http:
 >
 > As a simple example, it makes little sense to have a CPU of incredibly high speed coupled to a memory system and software that cannot keep up with it.
 
-The rest of the document that this is taken from is super good. Go read it, really.
+The rest of the document that this is taken from is super good. [Go read it](http://www.shodor.org/media/content/petascale/materials/UPModules/beginnersGuideHPC/moduleDocument_pdf), really.
 
 Also, the first few exercises in this are taken from the same paper as the introduction.
 
